@@ -12,7 +12,7 @@ A clean and modern clone of the **Apple website** built with pure **HTML** and *
 
 ## 📸 Preview
 
-> *(Add a screenshot of your project here)*
+> <img width="1351" height="5418" alt="applle-website-clone netlify app_ (2)" src="https://github.com/user-attachments/assets/49fbd84e-e028-4c8f-8581-044e18e0b982" />
 
 ---
 
